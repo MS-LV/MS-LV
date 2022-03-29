@@ -6,6 +6,6 @@
 <img src="all.png" width=100%>
 <br><br>
 ##Контакты
-номер:    +992938930004 <br>
-telegram: https://t.me/ADD_LOCK_SYSTEMS<br>
+номер:    +992938930004 <br><br>
+telegram: https://t.me/ADD_LOCK_SYSTEMS<br><br>
 email: jamoliddinqodirov18@gmail.com
