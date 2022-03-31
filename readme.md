@@ -5,6 +5,6 @@
 <img style="width:70%" src="all.png" width=100%>
 <br><br>
 ##Контакты
-номер:    +992938930004 <br><br>
+номер:    <a href"tel:+992938930004">+992938930004</a> <br><br>
 telegram: https://t.me/ADD_LOCK_SYSTEMS<br><br>
 email: jamoliddinqodirov18@gmail.com
