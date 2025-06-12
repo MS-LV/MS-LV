@@ -82,7 +82,9 @@ Major: Web Design and Computer Graphics (2020–2024)
 > Looking for meaningful challenges that foster growth and allow me to deliver value.
 
 
-______
+---
+---
+---
 
 
 
