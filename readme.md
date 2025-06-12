@@ -1,3 +1,91 @@
+# 👋 Hi! I'm Jamoliddin — Frontend Developer (Angular)
+
+Frontend Developer with 2+ years of commercial experience.  
+Worked on a large international platform, write clean code, love order, automation, and clear architecture.
+
+---
+
+## 🔧 Commercial Experience
+
+### Velox Software LLC (2022–2024)
+
+**Project:** Transparent Language — international platform for learning over 100 languages  
+**Role:** Frontend Developer  
+- Supported and developed the Angular-based platform  
+- Worked with REST APIs, optimized components  
+- Communicated with US-based clients  
+- Regularly updated the Angular platform to the latest versions
+
+---
+
+## 🏆 Development Achievements
+
+Implemented a number of technically significant improvements in commercial and personal projects:
+
+- 📱 Added support for **dynamic font size adjustment** on iPhone — synced with system accessibility settings  
+- 🐛 Fixed an issue with **event bubbling** — prevented parent handler from triggering when clicking on a child element  
+- 🔊 Resolved an **audio player bug** where pause functionality failed under certain conditions  
+- 🧾 Fixed an issue parsing **XML data** from the server — correctly handled special characters and complex nested structures
+
+---
+
+## 💼 Tech Stack
+
+- **Frontend:** Angular 14–17, TypeScript, RxJS, Angular Material  
+- **Layout:** HTML5, SCSS, responsive design based on Figma  
+- **DevOps:** Git, GitHub Actions (CI/CD), Bitbucket  
+- **Backend (basic):** Node.js, NestJS, MongoDB  
+- **Architecture:** REST API, component architecture, reusable code
+
+---
+
+## 🧠 Pet Projects
+
+- [**Polylingo** (formerly NAB English)](https://github.com/MS-LV/polylingo) — a web app for learning English built with Angular.  
+  Clean code, CI/CD deployment, and future plans for NestJS and Telegram Mini App integration.
+
+- [**Todo List**](https://github.com/MS-LV/Megafon-Todo-List) — full-featured Vue 3 CRUD-based task manager with filters and custom UI.  
+  Created during an internship at Megafon.
+
+- [**DigitalLibrary**](https://github.com/MS-LV/Library) — digital library system with PDF books and an admin panel.  
+  Built with Angular + Angular Material. Includes login, book management, PDF viewing, and an admin dashboard.  
+  Structured modular code, clean code practices, and CI/CD via GitHub Actions.
+
+📂 More projects in [my GitHub repositories](https://github.com/MS-LV?tab=repositories)
+
+---
+
+## 🎓 Education
+
+**Tajikistan State Academy of Fine Arts**  
+Major: Web Design and Computer Graphics (2020–2024)
+
+---
+
+## 🧩 About Me
+
+- I love clean and structured code  
+- I'm responsible, communicative, and team-oriented  
+- Constantly learning new technologies and practices (CI/CD, architecture, PWA, etc.)
+
+---
+
+## 📬 Contact
+
+- Telegram: [@SayByeMe](https://t.me/SayByeMe)  
+- GitHub: [MS-LV](https://github.com/MS-LV)  
+- Email: jamoliddinqodirov18@gmail.com
+
+---
+
+> Open to remote Frontend Developer opportunities in strong teams.  
+> Looking for meaningful challenges that foster growth and allow me to deliver value.
+
+
+______
+
+
+
 # 👋 Привет! Я Джамолиддин — Frontend-разработчик (Angular)
 
 Frontend Developer с 2+ годами коммерческого опыта.  
